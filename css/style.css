@@ -22,22 +22,22 @@ background-color: #FFF;
 .cabecalho {
     text-align: center;
 }
-.titulo-principal {
+.titulo_principal {
     font-size: 40px;
 }
 
-.paragrafo-principal {
+.paragrafo_principal {
     font-style: italic;
 }
 
 /* corpo da página*/
 
-.img-destaque {
+.img_destaque {
     text-align: center;
     margin-top: 30px;
 }
 
-.biografia-container {
+.biografia_container {
     text-align: left;
     padding: 25px 0;
     margin: 25px 0;
@@ -47,30 +47,30 @@ background-color: #FFF;
 
 /* citações */
 
-.frase-container {
+.frase_container {
     background-color: rgb(215, 253, 240);
     padding: 30px;
 }
 
-.frase-container blockquote {
+.frase_container blockquote {
     font-weight: 600;
     font-size: 30px;
 }
 
-.frase-container p {
+.frase_container p {
     font-style: italic;
 }
 
 /* curiosidades */
 
-.curiosidades-container {
+.curiosidades_container {
     padding: 25px 0;
     margin: 25px 0;
     border-top: 1px dashed #DDD;
     border-bottom: 1px dashed #DDD;
 }
 
-.curiosidades-container li {
+.curiosidades_container li {
     height: 30px;
 }
 
