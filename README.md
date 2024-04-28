@@ -8,7 +8,7 @@ Este projeto tem como objetivo apresentar um pouco sobre o icónico apresentador
 
 ## Como Usar
 
-clone este repositório em sua máquina, depois abra o arquivo `index.html` no seu navegador para visualizar localmente.
+Clone este repositório em sua máquina, depois abra o arquivo `index.html` no seu navegador para visualizar localmente.
 
 ```bash
 git clone https://github.com/leandropereira-dev/Tribute-to-Silvio-Santos.git
